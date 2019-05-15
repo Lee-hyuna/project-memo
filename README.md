@@ -1,5 +1,3 @@
-## Build Dependency
-
 ``` bash
 # install dependencies
 $ npm install
